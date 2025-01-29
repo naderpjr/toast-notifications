@@ -56,6 +56,6 @@ function showToast(msg){
 
     setTimeout(()=>{
         toast.remove();
-    },5000)
+    },4000)
 }
 
